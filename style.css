@@ -1,0 +1,28 @@
+.podcast-title-setting-title::before{
+    content: "●";
+    color: #b22222;
+}
+
+.cotei-description{
+    max-width: 100%;
+    width: 100%;
+    height: 200px;
+    resize: none;
+    border-radius: 5px;
+    border: #dbdbdb solid 1px;
+}
+
+.output-textarea{
+    max-width: 100%;
+    width: 100%;
+    height: 400px;
+    resize: none;
+    border-radius: 5px;
+    border: #dbdbdb solid 1px;
+}
+
+
+.podcast-kotei-description-title::before{
+    content: "●";
+    color: #b22222;
+}
