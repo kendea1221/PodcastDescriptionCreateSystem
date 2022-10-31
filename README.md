@@ -1,0 +1,2 @@
+# PodcastDescriptionCreateSystem
+Podcastの概要欄生成に使えるツールです。
